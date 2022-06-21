@@ -1,0 +1,40 @@
+{ 
+    "recetas": [
+                    {
+                        "id": 0,
+                        "nombre":"Pasta Alfredo con pollo",
+                        "Ingredientes":" para 2 personas, 200g de espagueti, 1 pechuga de pollo, 2 dientes de ajo, 1 cucharada de harina, 2 cucharadas de aceite, 250ml de leche, 1 cucharadita de nuez moscada, 100g de queso rallado, Sal, Aceite de oliva",
+                        "link":"https://www.youtube.com/watch?v=BDqeVnxFoa8"
+                    },
+                    {
+                        "id": 1,
+                        "nombre":"Espagueti verde con chile poblano y con cilantro",
+                        "Ingredientes":"para 4 personas, 400g de espagueti, 3 dientes de ajo, 200g de chile poblano (pimiento verde), 300g de caldo de ave, verdura o carne, 200g de crema agria, queso filadelfia o nata, cilantro o perejil,sal",
+                        "link":"https://www.youtube.com/watch?v=dkDtcpn0lFY"
+                    },
+                    {
+                        "id": 2,
+                        "nombre":"Macarrones con queso y tomate",
+                        "Ingredientes":"para 4 personas, 350g de macarrones, 1 cebolla, 2 dientes de ajo, 400ml de tomate triturado, 1 cucharadita de orégano seco, 200g de queso rallado para fundir, sal y pimienta, aceite",
+                        "link":"https://www.youtube.com/watch?v=akyelxM8mOI"
+                    },
+                    {
+                        "id": 3,
+                        "nombre":"Espaguetis al ajillo rapidos",
+                        "Ingredientes":"para 4 personas, 400g de espaguetis, 1 cabeza de dientes de ajo, aceite de oliva",
+                        "link":"https://www.youtube.com/watch?v=jr55ZvAdn7g"
+                    },
+                    {
+                        "id": 4,
+                        "nombre":"Ensalada de Pasta con Pollo Queso y Aguacate - Palta",
+                        "Ingredientes":"para 4 personas, 200g de pasta, 2 pechugas de pollo, 1 aguacate - palta, unos tomates cherry, Zumo de 1 limón, Queso cortado en lascas, Sal y pimienta, Aceite de oliva",
+                        "link":"https://www.youtube.com/watch?v=nWZ3oWD7TUs"
+                    },
+                    {
+                        "id": 5,
+                        "nombre":"4 recetas italianas muy populares",
+                        "Ingredientes":"Lasagna, Ensalada Cesar, Pasta Carbonada, Tiramisu Casero ",
+                        "link":"https://www.youtube.com/watch?v=V1um9v-Nf6s"
+                    }
+                ]
+}
